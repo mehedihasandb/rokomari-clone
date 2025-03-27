@@ -1,0 +1,45 @@
+{
+    "categories": [
+      {
+        "categoryName": "এইচএসসি",
+        "categoryUrl": "/book/category/1349/collage",
+        "imageUrl": "https://www.rokomari.com/static/200/images/icons/home-popular-category/collage.png"
+      },
+      {
+        "categoryName": "এডমিশন",
+        "categoryUrl": "/admission-preparation",
+        "imageUrl": "https://www.rokomari.com/static/200/images/icons/home-popular-category/admission.png"
+      },
+      {
+        "categoryName": "স্কুল",
+        "categoryUrl": "/book/category/1337/school",
+        "imageUrl": "https://www.rokomari.com/static/200/images/icons/home-popular-category/school.png"
+      },
+      {
+        "categoryName": "মাদ্রাসা",
+        "categoryUrl": "/book/category/2238/madrasa",
+        "imageUrl": "https://www.rokomari.com/static/200/images/icons/home-popular-category/madrasha.png"
+      },
+      {
+        "categoryName": "কারিগরি",
+        "categoryUrl": "/book/category/1354/polytechnic",
+        "imageUrl": "https://www.rokomari.com/static/200/images/icons/home-popular-category/polytechnic.png"
+      },
+      {
+        "categoryName": "ইউনিভার্সিটি",
+        "categoryUrl": "/book/category/413/university",
+        "imageUrl": "https://www.rokomari.com/static/200/images/icons/home-popular-category/university.png"
+      },
+      {
+        "categoryName": "ইঞ্জিনিয়ারিং",
+        "categoryUrl": "/book/category/90/engineering",
+        "imageUrl": "https://www.rokomari.com/static/200/images/icons/home-popular-category/engineering.png"
+      },
+      {
+        "categoryName": "মেডিকেল",
+        "categoryUrl": "/book/category/91/medical",
+        "imageUrl": "https://www.rokomari.com/static/200/images/icons/home-popular-category/medical.png"
+      }
+    ]
+  }
+  

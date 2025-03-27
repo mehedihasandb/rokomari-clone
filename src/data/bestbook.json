@@ -1,0 +1,70 @@
+{
+    "bestsellerbooks": [
+      {
+        "itemId": "1",
+        "itemName": "ইমাম গাজ্জালির রহ. চার উপদেশ",
+        "itemImageUrl": "https://ds.rokomari.store/rokomari110/category/531879e60b434_image.png",
+        "itemPrice": 250,
+        "originalPrice": 300,
+        "discount": 17,
+        "author": "Author 1",
+        "rating": 4.5,
+        "status": "Product in stock",
+        "url": "/book/1/ইমাম-গাজ্জালির-রহ-চার-উপদেশ",
+        "seq": 1
+      },
+      {
+        "itemId": "2",
+        "itemName": "প্যারেন্টিং শেখাবে ইসলাম",
+        "itemImageUrl": "https://ds.rokomari.store/rokomari110/category/1406b798abd64_image.webp",
+        "itemPrice": 350,
+        "originalPrice": 400,
+        "discount": 12,
+        "author": "Author 2",
+        "rating": 4.8,
+        "status": "Product in stock",
+        "url": "/book/2/প্যারেন্টিং-শেখাবে-ইসলাম",
+        "seq": 2
+      },
+      {
+        "itemId": "3",
+        "itemName": "আল কুরআন এক মহাসমুদ্র",
+        "itemImageUrl": "https://ds.rokomari.store/rokomari110/category/6aa4e6b4148d4_image.png",
+        "itemPrice": 150,
+        "originalPrice": 200,
+        "discount": 25,
+        "author": "Author 3",
+        "rating": 4.3,
+        "status": "Product in stock",
+        "url": "/book/3/আল-কুরআন-এক-মহাসমুদ্র",
+        "seq": 3
+      },
+      {
+        "itemId": "4",
+        "itemName": "রাসূলুল্লাহর উপদেশ",
+        "itemImageUrl": "https://ds.rokomari.store/rokomari110/category/8d284fa41ce64_image.png",
+        "itemPrice": 200,
+        "originalPrice": 250,
+        "discount": 20,
+        "author": "Author 4",
+        "rating": 4.7,
+        "status": "Product in stock",
+        "url": "/book/4/রাসূলুল্লাহর-উপদেশ",
+        "seq": 4
+      },
+      {
+        "itemId": "5",
+        "itemName": "সহীহ হাদিসের আলোকে মুমিনের চরিত্র",
+        "itemImageUrl": "https://ds.rokomari.store/rokomari110/category/f39e83bd971b4_image.png",
+        "itemPrice": 300,
+        "originalPrice": 350,
+        "discount": 14,
+        "author": "Author 5",
+        "rating": 4.6,
+        "status": "Product in stock",
+        "url": "/book/5/সহীহ-হাদিসের-আলোকে-মুমিনের-চরিত্র",
+        "seq": 5
+      }
+    ]
+  }
+  

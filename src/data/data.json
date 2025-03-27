@@ -1,0 +1,1180 @@
+{
+	"bestSellsItems": [
+		{
+			"itemId": "1",
+			"itemName": "Islamic Books",
+			"itemImageUrl": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/1ef97cc21_178414.jpg",
+			"itemPrice": 250,
+			"originalPrice": 300,
+			"discount": 27,
+			"author": "Author Name 1",
+			"rating": 5,
+			"status": "Product in stock",
+			"url": "/book/1/islamic-books",
+			"seq": 1
+		},
+		{
+			"itemId": "2",
+			"itemName": "Islamic Books",
+			"itemImageUrl": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Onno_Jogot-Khondokar_Mahedi_Hasan-b10ed-370889.jpg",
+			"itemPrice": 250,
+			"originalPrice": 300,
+			"discount": 17,
+			"author": "Author Name 2",
+			"rating": 4,
+			"status": "Product in stock",
+			"url": "/book/2/islamic-books",
+			"seq": 2
+		},
+		{
+			"itemId": "3",
+			"itemName": "Islamic Books",
+			"itemImageUrl": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/ef11c6ea1_213376.jpg",
+			"itemPrice": 250,
+			"originalPrice": 300,
+			"discount": 17,
+			"author": "Author Name 3",
+			"rating": 3,
+			"status": "Product in stock",
+			"url": "/book/3/islamic-books",
+			"seq": 3
+		},
+		{
+			"itemId": "4",
+			"itemName": "Islamic Books",
+			"itemImageUrl": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/dd003cb81_170978.jpg",
+			"itemPrice": 250,
+			"originalPrice": 300,
+			"discount": 17,
+			"author": "Author Name 4",
+			"rating": 2,
+			"status": "Product in stock",
+			"url": "/book/4/islamic-books",
+			"seq": 4
+		},
+		{
+			"itemId": "5",
+			"itemName": "Islamic Books",
+			"itemImageUrl": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Ebar_Bhinno_Kichu_Hok_-Arif_Azad-64903-226821.jpg",
+			"itemPrice": 250,
+			"originalPrice": 300,
+			"discount": 17,
+			"author": "Author Name 5",
+			"rating": 1,
+			"status": "Product in stock",
+			"url": "/book/5/islamic-books",
+			"seq": 5
+		},
+		{
+			"itemId": "6",
+			"itemName": "Islamic Books",
+			"itemImageUrl": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/0a41da307_212664.jpg",
+			"itemPrice": 250,
+			"originalPrice": 300,
+			"discount": 17,
+			"author": "Author Name 6",
+			"rating": 5,
+			"status": "Product in stock",
+			"url": "/book/6/islamic-books",
+			"seq": 6
+		},
+		{
+			"itemId": "7",
+			"itemName": "Islamic Books",
+			"itemImageUrl": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/b71a59819_193764.jpg",
+			"itemPrice": 250,
+			"originalPrice": 300,
+			"discount": 17,
+			"author": "Author Name 6",
+			"rating": 5,
+			"status": "Product in stock",
+			"url": "/book/6/islamic-books",
+			"seq": 6
+		},
+		{
+			"itemId": "8",
+			"itemName": "Islamic Books",
+			"itemImageUrl": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/a117a539d_160096.jpg",
+			"itemPrice": 250,
+			"originalPrice": 300,
+			"discount": 17,
+			"author": "Author Name 6",
+			"rating": 5,
+			"status": "Product in stock",
+			"url": "/book/6/islamic-books",
+			"seq": 6
+		},
+		{
+			"itemId": "9",
+			"itemName": "Islamic Books",
+			"itemImageUrl": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Parenting-Nazma_Jaman-b9741-141156.jpg",
+			"itemPrice": 250,
+			"originalPrice": 300,
+			"discount": 17,
+			"author": "Author Name 6",
+			"rating": 5,
+			"status": "Product in stock",
+			"url": "/book/6/islamic-books",
+			"seq": 6
+		},
+		{
+			"itemId": "10",
+			"itemName": "Islamic Books",
+			"itemImageUrl": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Nofser_Biruddhe_Lorai-Mahmud_Bin_Noor-885a9-217630.jpg",
+			"itemPrice": 250,
+			"originalPrice": 300,
+			"discount": 17,
+			"author": "Author Name 6",
+			"rating": 5,
+			"status": "Product in stock",
+			"url": "/book/6/islamic-books",
+			"seq": 6
+		}
+	],
+	"recentBooksList": [
+		{
+			"itemId": "1",
+			"itemName": "Islamic Books",
+			"itemImageUrl": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.672697106.1717545600&semt=sph",
+			"itemPrice": 250,
+			"originalPrice": 300,
+			"discount": 17,
+			"author": "Author Name 1",
+			"rating": 5,
+			"status": "Product in stock",
+			"url": "/book/1/islamic-books",
+			"seq": 1
+		},
+		{
+			"itemId": "2",
+			"itemName": "Islamic Books",
+			"itemImageUrl": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.672697106.1717545600&semt=sph",
+			"itemPrice": 250,
+			"originalPrice": 300,
+			"discount": 17,
+			"author": "Author Name 2",
+			"rating": 4,
+			"status": "Product in stock",
+			"url": "/book/2/islamic-books",
+			"seq": 2
+		},
+		{
+			"itemId": "3",
+			"itemName": "Islamic Books",
+			"itemImageUrl": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.672697106.1717545600&semt=sph",
+			"itemPrice": 250,
+			"originalPrice": 300,
+			"discount": 17,
+			"author": "Author Name 3",
+			"rating": 3,
+			"status": "Product in stock",
+			"url": "/book/3/islamic-books",
+			"seq": 3
+		},
+		{
+			"itemId": "4",
+			"itemName": "Onno Jogot",
+			"itemImageUrl": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Onno_Jogot-Khondokar_Mahedi_Hasan-b10ed-370889.jpg",
+			"itemPrice": 163,
+			"originalPrice": 240,
+			"discount": 32,
+			"author": "খোন্দকার মেহেদী হাসান",
+			"rating": 8,
+			"status": "Product in stock",
+			"url": "/book/370889/onno-jogot",
+			"seq": 4
+		},
+		{
+			"itemId": "5",
+			"itemName": "ooo",
+			"itemImageUrl": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.672697106.1717545600&semt=sph",
+			"itemPrice": 500.0,
+			"seq": "ttt"
+		}
+	],
+	"author": [
+		{
+			"id": 1,
+			"title": "মিসির আলি সমগ্র ১",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 860,
+			"originalPrice": 1000,
+			"rating": 4.5,
+			"ratingCount": 399,
+			"status": "Product in stock",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Misir_Ali_Samagra_1-Humayun_Ahmed-3ad64-56.jpg",
+			"link": "https://www.rokomari.com/book/56/misir-ali-samagra-1"
+		},
+		{
+			"id": 2,
+			"title": "তোমাকে",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 151,
+			"originalPrice": 175,
+			"rating": 4.5,
+			"ratingCount": 157,
+			"status": "Product in stock",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/1bf45d109584_884.gif",
+			"link": "https://www.rokomari.com/book/884/tomake"
+		},
+		{
+			"id": 3,
+			"title": "হিমু সমগ্র (১ম ও ২য় খণ্ড)",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 1376,
+			"originalPrice": 1600,
+			"rating": 4.5,
+			"ratingCount": 21,
+			"status": "Product in stock",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/2fd336d10394_142147.jpg",
+			"link": "https://www.rokomari.com/book/142147/himu-somogro-1st-and-2nd-part-rokomari-collection"
+		},
+		{
+			"id": 4,
+			"title": "হিমু অমনিবাস",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 602,
+			"originalPrice": 700,
+			"rating": 5,
+			"ratingCount": 9,
+			"status": "Product in stock",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/img141210_1274.gif",
+			"link": "https://www.rokomari.com/book/1274/himu-amonibas"
+		},
+		{
+			"id": 5,
+			"title": "নির্বাচিত ভূত",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 473,
+			"originalPrice": 550,
+			"rating": 4.5,
+			"ratingCount": 5,
+			"status": "Product in stock",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/7b997bb9ee94_127745.jpg",
+			"link": "https://www.rokomari.com/book/127745/nirbachito-bhut"
+		},
+		{
+			"id": 6,
+			"title": "মিসির আলি অমনিবাস (১ম-৩য় খণ্ড)",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 1518,
+			"originalPrice": 1725,
+			"rating": 4.5,
+			"ratingCount": 6,
+			"status": "Product in stock",
+			"discount": 12,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/9b7faa31b_141387.jpg",
+			"link": "https://www.rokomari.com/book/141387/misir-ali-amonibas-1st-3rd-part-rokomari-collection"
+		},
+		{
+			"id": 7,
+			"title": "হুমায়ূন বিচিত্রা",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 559,
+			"originalPrice": 650,
+			"rating": 5,
+			"ratingCount": 5,
+			"status": "Product in stock",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/img141210_8921.gif",
+			"link": "https://www.rokomari.com/book/8921/humayun-bechetra"
+		},
+		{
+			"id": 8,
+			"title": "হুমায়ূন আহমেদের দেবী সিরিজ ২টি বই",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 387,
+			"originalPrice": 440,
+			"rating": 4.5,
+			"ratingCount": 8,
+			"status": "Product in stock",
+			"discount": 12,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/62be6d9c9_174067.jpg",
+			"link": "https://www.rokomari.com/book/174067/humayun-ahmed-devi-series-2ti-boi-rokomari-collection"
+		},
+		{
+			"id": 9,
+			"title": "৫টি উপন্যাস ভালোবাসার হোক!",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 376,
+			"originalPrice": 429,
+			"rating": 4.5,
+			"ratingCount": 5,
+			"status": "Product in stock",
+			"discount": 12,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/62be6d9c9_174067.jpg",
+			"link": "https://www.rokomari.com/book/174067/humayun-ahmed-devi-series-2ti-boi-rokomari-collection"
+		},
+		{
+			"id": 10,
+			"title": "আশাবরী",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 172,
+			"originalPrice": 200,
+			"rating": 4.5,
+			"ratingCount": 44,
+			"status": "Product in stock",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/img141201_1328.gif",
+			"link": "https://www.rokomari.com/book/1328/ashabori"
+		},
+		{
+			"id": 11,
+			"title": "এইসব দিনরাত্রি",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 387,
+			"originalPrice": 450,
+			"rating": 4.5,
+			"ratingCount": 64,
+			"status": "Product in stock",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/227346b76_880.jpg",
+			"link": "https://www.rokomari.com/book/880/aisob-dinratri"
+		},
+		{
+			"id": 12,
+			"title": "ভ্রমণসমগ্র",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 602,
+			"originalPrice": 700,
+			"rating": 4.5,
+			"ratingCount": 34,
+			"status": "Product in stock",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/imgrok0610_59762.GIF",
+			"link": "https://www.rokomari.com/book/59762/vromonsomogro"
+		},
+		{
+			"id": 13,
+			"title": "মেঘের ওপর বাড়ি",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 258,
+			"originalPrice": 300,
+			"rating": 4.5,
+			"ratingCount": 35,
+			"status": "Product in stock",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/imgrok0610_9651.GIF",
+			"link": "https://www.rokomari.com/book/9651/megher-opor-bari"
+		},
+		{
+			"id": "62834",
+			"title": "দেয়াল",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 315,
+			"originalPrice": 450,
+			"rating": 4.5,
+			"ratingCount": 431,
+			"status": "Product in stock",
+			"discount": 30,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/1b3707c61_62834.jpg",
+			"link": "https://www.rokomari.com/book/62834/deyal"
+		},
+		{
+			"id": "1154",
+			"title": "হুমায়ূন আহমেদ রচনাবলী ২",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 688,
+			"originalPrice": 800,
+			"rating": 5,
+			"ratingCount": 11,
+			"status": "Product in stock",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/4f897c2bc_1154.jpg",
+			"link": "https://www.rokomari.com/book/1154/humayun-ahmed-rochonaboli-2"
+		},
+		{
+			"id": "123410",
+			"title": "হুমায়ূন আহমেদ রচনাবলী ৯",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 688,
+			"originalPrice": 800,
+			"rating": 3,
+			"ratingCount": 1,
+			"status": "Product in stock",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/6581e41d33b4_123410.jpg",
+			"link": "https://www.rokomari.com/book/123410/humayan-ahmed-rochonaboli-9"
+		},
+		{
+			"id": "204340",
+			"title": "হুমায়ূন আহমেদ রচনাবলী ১১",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 688,
+			"originalPrice": 800,
+			"rating": 5,
+			"ratingCount": 4,
+			"status": "Product in stock",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/57d494f43_204340.jpg",
+			"link": "https://www.rokomari.com/book/204340/humayun-ahmed-rachonaboli-11"
+		},
+		{
+			"id": "1167",
+			"title": "হুমায়ূন আহমেদ রচনাবলী - ৪",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 688,
+			"originalPrice": 800,
+			"rating": 4.5,
+			"ratingCount": 8,
+			"status": "Product in stock",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/198bdd3d6_1167.jpg",
+			"link": "https://www.rokomari.com/book/1167/humayun-ahmed-rochonaboli-4"
+		},
+		{
+			"id": "91408",
+			"title": "হুমায়ূন আহমেদ রচনাবলী ৮",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 688,
+			"originalPrice": 800,
+			"rating": 4.5,
+			"ratingCount": 7,
+			"status": "Product in stock",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/5ad575260_91408.jpg",
+			"link": "https://www.rokomari.com/book/91408/humayan-ahmed-rochonaboli-8"
+		},
+		{
+			"id": "72878",
+			"title": "হুমায়ূন আহমেদ রচনাবলী ৭",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 688,
+			"originalPrice": 800,
+			"rating": 5,
+			"ratingCount": 8,
+			"status": "Product in stock",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/770bfab90_72878.jpg",
+			"link": "https://www.rokomari.com/book/72878/humayan-ahmed-rochonaboli-7"
+		},
+		{
+			"id": "968",
+			"title": "জোছনা ও জননীর গল্প",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 560,
+			"originalPrice": 800,
+			"rating": 4.5,
+			"ratingCount": 309,
+			"status": "Product in stock",
+			"discount": 30,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/36dd62638_968.jpg",
+			"link": "https://www.rokomari.com/book/968/jochna-o-jononir-golpo"
+		},
+		{
+			"id": 192872,
+			"title": "উপন্যাস সমগ্র-১৬",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 572,
+			"originalPrice": 650,
+			"rating": 4.5,
+			"status": "Product in stock",
+			"discount": 12,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/f0f88bce0_192872.jpg",
+			"link": "https://www.rokomari.com/book/192872/uponnas-somogro-16"
+		},
+		{
+			"id": 127524,
+			"title": "মিসির আলির গল্পমালা",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 258,
+			"originalPrice": 300,
+			"rating": 4.5,
+			"status": "Product in stock",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/f53f62e811e4_127524.jpg",
+			"link": "https://www.rokomari.com/book/127524/misir-alir-golpmala"
+		},
+		{
+			"id": 161444,
+			"title": "ত্রি",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 387,
+			"originalPrice": 450,
+			"rating": 4,
+			"status": "Product in stock",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/400a3f391_161444.jpg",
+			"link": "https://www.rokomari.com/book/161444/tree"
+		},
+		{
+			"id": 221692,
+			"title": "উপন্যাস সমগ্র - ১৯",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 616,
+			"originalPrice": 700,
+			"rating": null,
+			"status": "Product in stock",
+			"discount": 12,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Upanyash_Somogro_19-Humayun_Ahmed-fedd1-221692.jpg",
+			"link": "https://www.rokomari.com/book/221692/upanyash-somogro-19"
+		},
+		{
+			"id": 221693,
+			"title": "উপন্যাস সমগ্র - ২০",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 616,
+			"originalPrice": 700,
+			"rating": null,
+			"status": "Product in stock",
+			"discount": 12,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Upanyash_Somogro_20-Humayun_Ahmed-9c9b8-221693.jpg",
+			"link": "https://www.rokomari.com/book/221693/upanyash-somogro-20"
+		},
+		{
+			"id": 874,
+			"title": "সেরা হুমায়ূন",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 860,
+			"originalPrice": 1000,
+			"rating": 4.5,
+			"status": "Product in stock",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Sera_Humayun-Humayun_Ahmed-82774-874.jpg",
+			"link": "https://www.rokomari.com/book/874/sera-humayun"
+		},
+		{
+			"id": 221695,
+			"title": "উপন্যাস সমগ্র - ২২",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 704,
+			"originalPrice": 800,
+			"rating": 4,
+			"status": "Product in stock",
+			"discount": 12,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Upanyash_Somogro_22-Humayun_Ahmed-215e7-221695.jpg",
+			"link": "https://www.rokomari.com/book/221695/upanyash-somogro-22"
+		},
+		{
+			"id": 206838,
+			"title": "উপন্যাস সমগ্র-১৮",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 660,
+			"originalPrice": 750,
+			"rating": 4.5,
+			"status": "Product in stock",
+			"discount": 12,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/95b9e7b4a_206838.jpg",
+			"link": "https://www.rokomari.com/book/206838/upanyash-somogro-18"
+		},
+		{
+			"id": 206837,
+			"title": "উপন্যাস সমগ্র-১৭",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 616,
+			"originalPrice": 700,
+			"rating": null,
+			"status": "Product in stock",
+			"discount": 12,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Upanyash_Somogro_17-Humayun_Ahmed-0458d-206837.jpg",
+			"link": "https://www.rokomari.com/book/206837/upanyash-somogro-17"
+		},
+		{
+			"id": "125102",
+			"title": "সেরা সাত কিশোর উপন্যাস",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 440,
+			"originalPrice": 500,
+			"rating": 4,
+			"status": "Product in stock",
+			"discount": 12,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/1154f06e15e4_125102.jpg",
+			"link": "https://www.rokomari.com/book/125102/sera-sat-kishor-uponnyash"
+		},
+		{
+			"id": "153408",
+			"title": "সেরা সাত মুক্তিযুদ্ধের উপন্যাস",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 528,
+			"originalPrice": 600,
+			"rating": 2,
+			"status": "Product in stock",
+			"discount": 12,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/97f077b57_153408.jpg",
+			"link": "https://www.rokomari.com/book/153408/sera-sat-muktijuddher-upanyas"
+		},
+		{
+			"id": "160902",
+			"title": "শ্রেষ্ঠ রোমান্টিক উপন্যাস",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 688,
+			"originalPrice": 800,
+			"rating": 3,
+			"status": "Product in stock",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/7bf390194_160902.jpg",
+			"link": "https://www.rokomari.com/book/160902/shrestha-romantic-upannyas"
+		},
+		{
+			"id": "126450",
+			"title": "সেরা সাত সায়েন্স ফিকশন",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 638,
+			"originalPrice": 725,
+			"rating": 4,
+			"status": "Product in stock",
+			"discount": 12,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/c0a8961216e4_126450.jpg",
+			"link": "https://www.rokomari.com/book/126450/sera-sat-science-fiction"
+		},
+		{
+			"id": "272252",
+			"title": "নির্বাচিত অতিপ্রাকৃত গল্প",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 447,
+			"originalPrice": 520,
+			"status": "Product in stock",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Nirbachito_Otiprakrito_Golpo-Humayun_Ahmed-669c7-272252.jpg",
+			"link": "https://www.rokomari.com/book/272252/nirbachito-otiprakrito-golpo"
+		},
+		{
+			"id": "125592",
+			"title": "সেরা সাত প্রেমের উপন্যাস",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 748,
+			"originalPrice": 850,
+			"rating": 2,
+			"status": "Product in stock",
+			"discount": 12,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/0e3951a24654_125592.jpg",
+			"link": "https://www.rokomari.com/book/125592/sera-sat-premer-uponnyash"
+		},
+		{
+			"id": "878",
+			"title": "দশটি উপন্যাস",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 860,
+			"originalPrice": 1000,
+			"rating": 6,
+			"status": "Product in stock",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/img141210_878.gif",
+			"link": "https://www.rokomari.com/book/878/doshti-uponnas"
+		},
+		{
+			"id": "125101",
+			"title": "সেরা সাত হিমু",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 704,
+			"originalPrice": 800,
+			"rating": 5,
+			"status": "Product in stock",
+			"discount": 12,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/f5192cb68514_125101.jpg",
+			"link": "https://www.rokomari.com/book/125101/sera-sat-himu"
+		},
+		{
+			"id": "125593",
+			"title": "সেরা সাত মিসির আলি",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 594,
+			"originalPrice": 675,
+			"rating": 4,
+			"status": "Product in stock",
+			"discount": 12,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/4dbd0c6cfeb4_125593.jpg",
+			"link": "https://www.rokomari.com/book/125593/sera-sat-misir-ali"
+		},
+		{
+			"id": 56,
+			"title": "মিসির আলি সমগ্র ১",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 860,
+			"originalPrice": 1000,
+			"rating": 4.5,
+			"ratingCount": 399,
+			"status": "Product in stock",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Misir_Ali_Samagra_1-Humayun_Ahmed-3ad64-56.jpg",
+			"link": "https://www.rokomari.com/book/56/misir-ali-samagra-1"
+		},
+		{
+			"id": 884,
+			"title": "তোমাকে",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 151,
+			"originalPrice": 175,
+			"rating": 4.5,
+			"ratingCount": 157,
+			"status": "Product in stock",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/1bf45d109584_884.gif",
+			"link": "https://www.rokomari.com/book/884/tomake"
+		},
+		{
+			"id": 142147,
+			"title": "হিমু সমগ্র (১ম ও ২য় খণ্ড)",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 1376,
+			"originalPrice": 1600,
+			"rating": 4.0,
+			"ratingCount": 21,
+			"status": "",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/2fd336d10394_142147.jpg",
+			"link": "https://www.rokomari.com/book/142147/himu-somogro-1st-and-2nd-part-rokomari-collection"
+		},
+		{
+			"id": 1274,
+			"title": "হিমু অমনিবাস",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 602,
+			"originalPrice": 700,
+			"rating": 5.0,
+			"ratingCount": 9,
+			"status": "",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/img141210_1274.gif",
+			"link": "https://www.rokomari.com/book/1274/himu-amonibas"
+		},
+		{
+			"id": 127745,
+			"title": "নির্বাচিত ভূত",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 473,
+			"originalPrice": 550,
+			"rating": 4.5,
+			"ratingCount": 5,
+			"status": "",
+			"discount": 14,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/7b997bb9ee94_127745.jpg",
+			"link": "https://www.rokomari.com/book/127745/nirbachito-bhut"
+		},
+		{
+			"id": 141387,
+			"title": "মিসির আলি অমনিবাস (১ম-৩য় খণ্ড)",
+			"author": "হুমায়ূন আহমেদ",
+			"price": 1518,
+			"originalPrice": 1725,
+			"rating": 4.5,
+			"ratingCount": 6,
+			"status": "",
+			"discount": 12,
+			"image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/9b7faa31b_141387.jpg",
+			"link": "https://www.rokomari.com/book/141387/misir-ali-amonibas-1st-3rd-part-rokomari-collection"
+		}
+	],
+	"categories": [
+		{
+			"id": "677",
+			"name": "সমকালীন উপন্যাস",
+			"translated": "Contemporary Novel"
+		},
+		{
+			"id": "716",
+			"name": "উপন্যাস সমগ্র",
+			"translated": "Novel Compilation"
+		},
+		{
+			"id": "1321",
+			"name": "রচনা সংকলন ও সমগ্র",
+			"translated": "Literature Collection"
+		},
+		{
+			"id": "718",
+			"name": "গল্প সমগ্র",
+			"translated": "Story Compilation"
+		},
+		{
+			"id": "578",
+			"name": "সাহিত্যিক, শিল্প ও সংগীত ব্যক্তিত্ব",
+			"translated": "Musician, Artist and Literary Person"
+		},
+		{
+			"id": "914",
+			"name": "সায়েন্স ফিকশন",
+			"translated": "Science Fiction"
+		},
+		{
+			"id": "1425",
+			"name": "অতিপ্রাকৃত ও ভৌতিক উপন্যাস",
+			"translated": "Novel: Horror and Supernatural"
+		},
+		{
+			"id": "680",
+			"name": "রোমান্টিক উপন্যাস",
+			"translated": "Novel: Romance"
+		},
+		{
+			"id": "682",
+			"name": "শিশু-কিশোর উপন্যাস",
+			"translated": "Novel: Children and Teens"
+		},
+		{
+			"id": "660",
+			"name": "নানাদেশ ও ভ্রমণ",
+			"translated": "Countries and Travel"
+		},
+		{
+			"id": "1279",
+			"name": "সায়েন্স ফিকশন সমগ্র/সংকলন",
+			"translated": "Science Fiction Collection"
+		},
+		{
+			"id": "911",
+			"name": "অতিপ্রাকৃত ও ভৌতিক",
+			"translated": "Horror and Supernatural"
+		},
+		{
+			"id": "1144",
+			"name": "মুক্তিযুদ্ধের উপন্যাস",
+			"translated": "Novel on Liberation War"
+		},
+		{
+			"id": "687",
+			"name": "সমকালীন গল্প",
+			"translated": "Contemporary Story"
+		},
+		{
+			"id": "681",
+			"name": "রাজনৈতিক ও মুক্তিযুদ্ধভিত্তিক উপন্যাস",
+			"translated": "Novel: Political and Liberation war"
+		},
+		{
+			"id": "1386",
+			"name": "শিশু-কিশোর সাহিত্য/রচনা সমগ্র",
+			"translated": "Children and Teens Compilation"
+		},
+		{
+			"id": "1092",
+			"name": "উপন্যাস কালেকশন",
+			"translated": "Novel Collection"
+		},
+		{
+			"id": "692",
+			"name": "শিশু-কিশোর গল্প",
+			"translated": "Story: Children and Teens"
+		},
+		{
+			"id": "406",
+			"name": "পশ্চিমবঙ্গের বই",
+			"translated": "West Bengal Books"
+		},
+		{
+			"id": "1242",
+			"name": "বয়স যখন ৮-১২: গল্প",
+			"translated": "When 8-12: Story"
+		},
+		{
+			"id": "916",
+			"name": "নাটক",
+			"translated": "Drama/ Play"
+		},
+		{
+			"id": "1260",
+			"name": "বয়স যখন ১২-১৭: উপন্যাস",
+			"translated": "When 12-17: Novel"
+		},
+		{
+			"id": "679",
+			"name": "সায়েন্স ফিকশন",
+			"translated": "Science Fiction"
+		},
+		{
+			"id": "686",
+			"name": "অনুবাদ উপন্যাস",
+			"translated": "Translated Novel"
+		},
+		{
+			"id": "1266",
+			"name": "উপন্যাস সংকলন ও সমগ্র",
+			"translated": "Novel Compilation"
+		},
+		{
+			"id": "1256",
+			"name": "জীবনী ও স্মৃতিচারণ: বিবিধ",
+			"translated": "Biography & Memory: Others"
+		},
+		{
+			"id": "1160",
+			"name": "বয়স যখন ৪-৮: কমিক্স ও ছবির গল্প",
+			"translated": "When 4-8: Comic and Graphic Story"
+		},
+		{
+			"id": "654",
+			"name": "ব্যঙ্গ ও রম্যরচনা",
+			"translated": "Humor & Entertainment"
+		},
+		{
+			"id": "910",
+			"name": "শিশু-কিশোর: রহস্য, গোয়েন্দা, ভৌতিক, থ্রিলার ও অ্যাডভেঞ্চার",
+			"translated": "Children and Teens: Mystery, Detective, Horror, Thriller and Adventure"
+		},
+		{
+			"id": "597",
+			"name": "আত্ম-চরিত",
+			"translated": "Autobiography"
+		},
+		{
+			"id": "1304",
+			"name": "ইংরেজি ভাষার উপন্যাস",
+			"translated": "Novel: English Language"
+		},
+		{
+			"id": "684",
+			"name": "ঐতিহাসিক উপন্যাস",
+			"translated": "Historical Novel"
+		},
+		{
+			"id": "2002",
+			"name": "পশ্চিমবঙ্গের বই: উপন্যাস",
+			"translated": "West Bengal Books: Novel"
+		},
+		{
+			"id": "1173",
+			"name": "বয়স যখন ৮-১২: রূপকথা, উপকথা ও লোককাহিনী",
+			"translated": "When 8-12: Fables"
+		},
+		{
+			"id": "1175",
+			"name": "বয়স যখন ৮-১২: কমিকস ও ছবির গল্প",
+			"translated": "When 8-12: Comic and Graphic Story"
+		},
+		{
+			"id": "1455",
+			"name": "ভৌতিক ও অতিপ্রাকৃত গল্প",
+			"translated": "Horror and Supernatural Story"
+		},
+		{
+			"id": "1120",
+			"name": "শিশু ও কিশোর কালেকশন",
+			"translated": "Children & Teens Collection"
+		},
+		{
+			"id": "1129",
+			"name": "উপন্যাস, কবিতা, গল্প ও নাটক কালেকশন",
+			"translated": "Novel, Poem, Short Story & Drama Collection"
+		},
+		{
+			"id": "2953",
+			"name": "Baby Mosquito Nets",
+			"translated": "Baby Mosquito Nets"
+		},
+		{
+			"id": "1305",
+			"name": "ইংরেজি ভাষার গল্প",
+			"translated": "English Story"
+		},
+		{
+			"id": "1391",
+			"name": "উক্তি, বাণী, শ্লোক ও প্রবাদ-প্রবচন",
+			"translated": "Quote, Aphorisms & Proverbs"
+		},
+		{
+			"id": "1375",
+			"name": "চলচ্চিত্র বিষয়ক প্রবন্ধ ও আলোচনা",
+			"translated": "Discussion- Film"
+		},
+		{
+			"id": "2833",
+			"name": "চিত্রনাট্য",
+			"translated": "Screenplay"
+		},
+		{
+			"id": "710",
+			"name": "ছবির অ্যালবাম",
+			"translated": "Photo Albums"
+		},
+		{
+			"id": "1108",
+			"name": "জীবনী ও স্মৃতিচারণ কালেকশন",
+			"translated": "Biographies & Memories Collection"
+		},
+		{
+			"id": "912",
+			"name": "থ্রিলার",
+			"translated": "Thriller"
+		},
+		{
+			"id": "717",
+			"name": "নাটক সমগ্র",
+			"translated": "Drama Compilation"
+		},
+		{
+			"id": "1512",
+			"name": "পশ্চিমবঙ্গের বই: গল্প",
+			"translated": "West Bengal Books: Story"
+		},
+		{
+			"id": "7389",
+			"name": "পশ্চিমবঙ্গের বই: রাজনৈতিক উপন্যাস",
+			"translated": "West Bengal Books: Political Novel"
+		},
+		{
+			"id": "889",
+			"name": "বাংলা কবিতা",
+			"translated": "Poem- Bangla"
+		},
+		{
+			"id": "2249",
+			"name": "বিবিধ কালেকশন",
+			"translated": "Others collection"
+		},
+		{
+			"id": "908",
+			"name": "বিবিধ বিষয়ক প্রবন্ধ",
+			"translated": "Others: Articles"
+		},
+		{
+			"id": "1194",
+			"name": "বয়স যখন ১২-১৭: গল্প",
+			"translated": "When 12-17: Story"
+		}
+	],
+	"publishers": [
+		{
+			"id": "rok-filter-publisherIds-1",
+			"name": "অন্যপ্রকাশ Anyaprokash"
+		},
+		{
+			"id": "rok-filter-publisherIds-18",
+			"name": "প্রতীক প্রকাশনা সংস্থা Protik Prokashana Sangstha"
+		},
+		{
+			"id": "rok-filter-publisherIds-2",
+			"name": "অনন্যা Anannya "
+		},
+		{
+			"id": "rok-filter-publisherIds-15",
+			"name": "কাকলী প্রকাশনী Kakali Prokashoni"
+		},
+		{
+			"id": "rok-filter-publisherIds-580",
+			"name": "রকমারি কালেকশন Rokomari Collection"
+		},
+		{
+			"id": "rok-filter-publisherIds-21",
+			"name": "সময় প্রকাশন Somoy Prakashan"
+		},
+		{
+			"id": "rok-filter-publisherIds-12",
+			"name": "অন্বেষা প্রকাশন Annesha Prokashon"
+		},
+		{
+			"id": "rok-filter-publisherIds-16",
+			"name": "জ্ঞানকোষ প্রকাশনী Gyankosh Prokashony"
+		},
+		{
+			"id": "rok-filter-publisherIds-11",
+			"name": "অনুপম প্রকাশনী Anupam Prakashany"
+		},
+		{
+			"id": "rok-filter-publisherIds-117",
+			"name": "অবসর প্রকাশনা সংস্থা Abosar Prokashana Sangstha"
+		},
+		{
+			"id": "rok-filter-publisherIds-14",
+			"name": "আফসার ব্রাদার্স Afsar Brothers"
+		},
+		{
+			"id": "rok-filter-publisherIds-17",
+			"name": "পার্ল পাবলিকেশন্স Pearl Publications"
+		},
+		{
+			"id": "rok-filter-publisherIds-58",
+			"name": "তাম্রলিপি Tamrolipi"
+		},
+		{
+			"id": "rok-filter-publisherIds-41",
+			"name": "মাওলা ব্রাদার্স Mowla Brothers"
+		},
+		{
+			"id": "rok-filter-publisherIds-22",
+			"name": "সাগর পাবলিশার্স Sagor Publishers"
+		},
+		{
+			"id": "rok-filter-publisherIds-814",
+			"name": "পত্র ভারতী (ভারত) Patra Bharati (India)"
+		},
+		{
+			"id": "rok-filter-publisherIds-24",
+			"name": "শিখা প্রকাশনী Shikha Prokashoni"
+		},
+		{
+			"id": "rok-filter-publisherIds-23",
+			"name": "সুবর্ণ Subarna"
+		},
+		{
+			"id": "rok-filter-publisherIds-89",
+			"name": "হাতেখড়ি Hatekhari"
+		},
+		{
+			"id": "rok-filter-publisherIds-597",
+			"name": "প্রগতি পাবলিশার্স Progoti Publishers"
+		},
+		{
+			"id": "rok-filter-publisherIds-3196",
+			"name": "প্রতিভাস (ভারত) Prativash (India)"
+		},
+		{
+			"id": "rok-filter-publisherIds-19",
+			"name": "বাংলাপ্রকাশ Banglaprokash"
+		},
+		{
+			"id": "rok-filter-publisherIds-4222",
+			"name": "বেহুলাবাংলা Behulabangla"
+		},
+		{
+			"id": "rok-filter-publisherIds-483",
+			"name": "সৃজনী Srijony"
+		},
+		{
+			"id": "rok-filter-publisherIds-9152",
+			"name": "Non-Brand Non-Brand"
+		},
+		{
+			"id": "rok-filter-publisherIds-12702",
+			"name": "কাকলী প্রকাশনী (কলকাতা) Kakali Prokashoni"
+		},
+		{
+			"id": "rok-filter-publisherIds-1384",
+			"name": "জি-সিরিজ ও অগ্নিবীণা প্রোডাকশন G-Sires & Agnibina Production"
+		},
+		{
+			"id": "rok-filter-publisherIds-1602",
+			"name": "ঢাকা কমিক্স Dhaka Comics"
+		},
+		{
+			"id": "rok-filter-publisherIds-457",
+			"name": "দি ইউনিভার্সেল একাডেমি The Universal Academy "
+		},
+		{
+			"id": "rok-filter-publisherIds-122",
+			"name": "দিব্য প্রকাশ Dibya Prakhsh"
+		},
+		{
+			"id": "rok-filter-publisherIds-3166",
+			"name": "পল্লব পাবলিশার্স Pallab Publishers"
+		},
+		{
+			"id": "rok-filter-publisherIds-38",
+			"name": "প্রথমা প্রকাশন Prothoma Prokashan"
+		},
+		{
+			"id": "rok-filter-publisherIds-59",
+			"name": "বর্ণবিচিত্রা Barna Bichitra"
+		},
+		{
+			"id": "rok-filter-publisherIds-579",
+			"name": "মেরিট ফেয়ার প্রকাশন Merit Fair Prokashon"
+		},
+		{
+			"id": "rok-filter-publisherIds-7824",
+			"name": "রূপা প্রকাশনী (ভারত) Rup Prokashoni (Indian)"
+		},
+		{
+			"id": "rok-filter-publisherIds-7092",
+			"name": "শব্দভূমি প্রকাশনা Shobdobhumi Prokashona"
+		},
+		{
+			"id": "rok-filter-publisherIds-10",
+			"name": "শ্রাবণ প্রকাশনী Shrabon Prokashani"
+		}
+	]
+}

@@ -1,0 +1,144 @@
+{
+	"bestSellsItems": [
+	  {
+		"itemId": "1",
+		"itemName": "Islamic Books",
+		"itemImageUrl": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/b2edadac5cd4_129384.jpg",
+		"itemPrice": 250,
+		"originalPrice": 300,
+		"discount": 27,
+		"author": "Author Name 1",
+		"rating": 5,
+		"status": "Product in stock",
+		"url": "/book/1/islamic-books",
+		"seq": 1
+	  },
+	  {
+		"itemId": "2",
+		"itemName": "Islamic Books",
+		"itemImageUrl": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Onno_Jogot-Khondokar_Mahedi_Hasan-b10ed-370889.jpg",
+		"itemPrice": 250,
+		"originalPrice": 300,
+		"discount": 17,
+		"author": "Author Name 2",
+		"rating": 4,
+		"status": "Product in stock",
+		"url": "/book/2/islamic-books",
+		"seq": 2
+	  },
+	  {
+		"itemId": "3",
+		"itemName": "Islamic Books",
+		"itemImageUrl": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.672697106.1717545600&semt=sph",
+		"itemPrice": 250,
+		"originalPrice": 300,
+		"discount": 17,
+		"author": "Author Name 3",
+		"rating": 3,
+		"status": "Product in stock",
+		"url": "/book/3/islamic-books",
+		"seq": 3
+	  },
+	  {
+		"itemId": "4",
+		"itemName": "Islamic Books",
+		"itemImageUrl": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.672697106.1717545600&semt=sph",
+		"itemPrice": 250,
+		"originalPrice": 300,
+		"discount": 17,
+		"author": "Author Name 4",
+		"rating": 2,
+		"status": "Product in stock",
+		"url": "/book/4/islamic-books",
+		"seq": 4
+	  },
+	  {
+		"itemId": "5",
+		"itemName": "Islamic Books",
+		"itemImageUrl": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.672697106.1717545600&semt=sph",
+		"itemPrice": 250,
+		"originalPrice": 300,
+		"discount": 17,
+		"author": "Author Name 5",
+		"rating": 1,
+		"status": "Product in stock",
+		"url": "/book/5/islamic-books",
+		"seq": 5
+	  },
+	  {
+		"itemId": "6",
+		"itemName": "Islamic Books",
+		"itemImageUrl": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.672697106.1717545600&semt=sph",
+		"itemPrice": 250,
+		"originalPrice": 300,
+		"discount": 17,
+		"author": "Author Name 6",
+		"rating": 5,
+		"status": "Product in stock",
+		"url": "/book/6/islamic-books",
+		"seq": 6
+	  }
+	],
+	"recentBooksList": [
+	  {
+		"itemId": "1",
+		"itemName": "Islamic Books",
+		"itemImageUrl": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.672697106.1717545600&semt=sph",
+		"itemPrice": 250,
+		"originalPrice": 300,
+		"discount": 17,
+		"author": "Author Name 1",
+		"rating": 5,
+		"status": "Product in stock",
+		"url": "/book/1/islamic-books",
+		"seq": 1
+	  },
+	  {
+		"itemId": "2",
+		"itemName": "Islamic Books",
+		"itemImageUrl": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.672697106.1717545600&semt=sph",
+		"itemPrice": 250,
+		"originalPrice": 300,
+		"discount": 17,
+		"author": "Author Name 2",
+		"rating": 4,
+		"status": "Product in stock",
+		"url": "/book/2/islamic-books",
+		"seq": 2
+	  },
+	  {
+		"itemId": "3",
+		"itemName": "Islamic Books",
+		"itemImageUrl": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.672697106.1717545600&semt=sph",
+		"itemPrice": 250,
+		"originalPrice": 300,
+		"discount": 17,
+		"author": "Author Name 3",
+		"rating": 3,
+		"status": "Product in stock",
+		"url": "/book/3/islamic-books",
+		"seq": 3
+	  },
+	  {
+		"itemId": "4",
+		"itemName": "Onno Jogot",
+		"itemImageUrl": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Onno_Jogot-Khondokar_Mahedi_Hasan-b10ed-370889.jpg",
+		"itemPrice": 163,
+		"originalPrice": 240,
+		"discount": 32,
+		"author": "খোন্দকার মেহেদী হাসান",
+		"rating": 8,
+		"status": "Product in stock",
+		"url": "/book/370889/onno-jogot",
+		"seq": 4
+	  },
+	  {
+		"itemId": "5",
+		"itemName": "ooo",
+		"itemImageUrl": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.672697106.1717545600&semt=sph",
+		"itemPrice": 500.0,
+		"seq": "ttt"
+	  }
+	]
+  }
+  

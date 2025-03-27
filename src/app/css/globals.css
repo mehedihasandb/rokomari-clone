@@ -1,0 +1,56 @@
+@import "base.css";
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .headerDiv {
+        @apply text-gray-700 hover:text-white flex items-center justify-center py-1.5 px-3 rounded-md hover:bg-btnback border-gray-200 hover:border-orange-500 duration-200;
+    }
+    .cartDiv {
+        @apply bg-black hover:bg-gray-800 rounded-full text-slate-100 hover:text-white flex items-center justify-center gap-x-1 py-3 px-3 border-[1px] border-black hover:border-orange-600 duration-200 relative;
+    }
+}
+/* styles/globals.css */
+
+.irs--flat .irs-handle.from::before,
+.irs--flat .irs-handle.to::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 8px; /* Adjust width as needed */
+  height: 8px; /* Adjust height as needed */
+  background-color: #20b426; /* Adjust this if needed */
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.irs--flat .irs-bar {
+  background-color: #20b426 !important;
+  height: 8px; 
+}
+
+.irs--flat .irs-handle {
+  border-color: #20b426 !important;
+  background-color: #20b426 !important;
+  width: 8px;
+  border-radius: 50%;
+}
+
+.irs--flat .irs-from,
+.irs--flat .irs-to,
+.irs--flat .irs-single {
+  background-color: #20b426 !important;
+}
+
+.irs--flat .irs-line {
+  background-color: #e0f7e9 !important;
+  height: 8px;
+}
+
+.price-range-icon {
+  color: #20b426;
+  vertical-align: middle;
+  border-radius: 25%;
+}
+

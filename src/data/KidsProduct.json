@@ -1,0 +1,72 @@
+{
+    "bestSellsItems": [
+      {
+        "itemId": 1,
+        "itemName": "Baby Body Wash ",
+        "itemImageUrl": "https://www.rokomari.com/static/200/images/icons/home-popular-category/kid-body-wash.png",
+        "author": "Super Author 1",
+        "rating": 4.5,
+        "reviews": 120,
+        "itemPrice": 25.99,
+        "originalPrice": 29.99,
+        "discount": 15
+      },
+      {
+        "itemId": 2,
+        "itemName": "Lotions & Creams ",
+        "itemImageUrl": "https://www.rokomari.com/static/200/images/icons/home-popular-category/kid-lotions-&-creams.png",
+        "author": "Super Author 2",
+        "rating": 4.8,
+        "reviews": 98,
+        "itemPrice": 19.99,
+        "originalPrice": 24.99,
+        "discount": 20
+      },
+      {
+        "itemId": 3,
+        "itemName": "Kids' Toys ",
+        "itemImageUrl": "https://www.rokomari.com/static/200/images/icons/home-popular-category/kid-toys.png",
+        "author": "Super Author 3",
+        "rating": 4.2,
+        "reviews": 150,
+        "itemPrice": 30.99,
+        "originalPrice": 34.99,
+        "discount": 10
+      },
+      {
+        "itemId": 4,
+        "itemName": "Strollers & Prams ",
+        "itemImageUrl": "https://www.rokomari.com/static/200/images/icons/home-popular-category/kid-stroller.png",
+        "author": "Super Author 3",
+        "rating": 4.2,
+        "reviews": 150,
+        "itemPrice": 30.99,
+        "originalPrice": 34.99,
+        "discount": 10
+      },
+
+      {
+        "itemId": 5,
+        "itemName": "Baby Feeding ",
+        "itemImageUrl": "https://www.rokomari.com/static/200/images/icons/home-popular-category/kid-feeding.png",
+        "author": "Super Author 3",
+        "rating": 4.2,
+        "reviews": 150,
+        "itemPrice": 30.99,
+        "originalPrice": 34.99,
+        "discount": 10
+      },
+
+      {
+        "itemId": 6,
+        "itemName": "Baby Powders ",
+        "itemImageUrl": "https://www.rokomari.com/static/200/images/icons/home-popular-category/kid-powders.png",
+        "author": "Super Author 3",
+        "rating": 4.2,
+        "reviews": 150,
+        "itemPrice": 30.99,
+        "originalPrice": 34.99,
+        "discount": 10
+      }
+]
+}

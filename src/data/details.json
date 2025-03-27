@@ -1,0 +1,28 @@
+{
+    "bestSellsItems": [
+        {
+            "itemId": "1",
+            "itemName": "Book One",
+            "itemImageUrl": "/images/book1.jpg",
+            "author": "Author One",
+            "itemPrice": "100",
+            "originalPrice": "120",
+            "rating": 4,
+            "status": "Product in stock",
+            "description": "Description for book one",
+            "discount": 20
+        },
+        {
+            "itemId": "2",
+            "itemName": "Book Two",
+            "itemImageUrl": "/images/book2.jpg",
+            "author": "Author Two",
+            "itemPrice": "150",
+            "originalPrice": "180",
+            "rating": 3.5,
+            "status": "Out of stock",
+            "description": "Description for book two",
+            "discount": 10
+        }
+    ]
+}
